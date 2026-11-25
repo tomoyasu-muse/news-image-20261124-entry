@@ -14,6 +14,11 @@ A newspaper front page with the date **24 NOVEMBER 2026** in extra
 large type and five stories, each cross-checked across several news
 sources reporting that day:
 
+- About five Russian warplanes entering Korea's air defence zone
+  early on Tuesday, approaching Ulleung Island: Seoul scrambles
+  jets and issues its first preliminary air-raid alert over a
+  possible Russian intrusion, lifted in about three minutes with
+  no airspace violation, and summons Moscow's attache
 - A Russian dawn strike on Zaporizhzhia killing 2 people and
   wounding 40, four of them children, destroying a home and partly
   demolishing a five-storey apartment block
@@ -24,12 +29,11 @@ sources reporting that day:
   girls killed by a partner or relative in 2025, five every hour
 - WHO and Ebola responders still trapped on Tuesday, over 48 hours
   on, in a hospital maternity ward in Ituri, DR Congo, amid fighting
-- China extending its suspension of the ban on US-bound gallium,
-  germanium and antimony exports to 27 January 2027
 
-A ticker adds US plans for new tariffs on 16 trading partners,
-about 175 migrants missing from a boat that left Senegal, and
-Colombia marking ten years since its 2016 peace deal.
+A ticker adds China extending its pause on the gallium export ban
+to the US to 27 January 2027, US plans for new tariffs on 16
+trading partners, and about 175 migrants missing from a boat that
+left Senegal, whose navy rescued 974 people on Monday.
 
 ## How it works
 
